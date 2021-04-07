@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fatihyldrim.visitors_count)
 
-<!--
+
 **fatihyldrim/fatihyldrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
