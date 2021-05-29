@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fthyldrimm" target="blank"><img src="https://img.shields.io/twitter/follow/fthyldrimm?logo=twitter&style=for-the-badge" alt="fthyldrimm" /></a> </p>
 -->
-- 🔭 I’m currently working on **server-based massive multiplayer systems for open world shooting game**
+- 🔭 I’m currently working on server-based massive multiplayer systems for open world shooting game
 
 - 🌱 I’m currently learning **Go**
 
